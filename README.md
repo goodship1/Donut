@@ -1,2 +1,2 @@
-# 3D-Donut
+# Donut
 A small rust implementation of a spinning donut which renders in terminal 
