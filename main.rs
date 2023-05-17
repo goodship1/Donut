@@ -2,7 +2,7 @@ mod donut;
 
 fn main() {
         loop{
-        donut::create();
+        donut::create();//Creates the main loop 
         }
     
 }
